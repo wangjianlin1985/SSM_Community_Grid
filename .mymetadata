@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="bdm103wangluohua"
+  id="myeclipse.1480747586091"
+  context-root="/bdm103wangluohua"
+  j2ee-spec="5.0"
+  archive="bdm103wangluohua.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
